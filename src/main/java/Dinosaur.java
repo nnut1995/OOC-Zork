@@ -4,14 +4,14 @@ import java.util.HashMap;
 /**
  * Created by Apple on 1/27/2017 AD.
  */
-public class ZorkCreature extends ZorkObject {
+public class Dinosaur extends Object {
     public String name;
     public String description;
     public HashMap<String,String> vulnerability = new HashMap<String,String>();
-    public ArrayList<ZorkCondition> conditions = new ArrayList<ZorkCondition>();
+    public ArrayList<Condition> conditions = new ArrayList<Condition>();
     public ArrayList<String> print = new ArrayList<String>();
     public ArrayList<String> action = new ArrayList<String>();
-    public ZorkCreature()
+    public Dinosaur()
     {}
 
     public boolean attack(Zork zork,String weapon)

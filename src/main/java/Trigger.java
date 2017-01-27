@@ -3,8 +3,8 @@ import java.util.ArrayList;
 /**
  * Created by Apple on 1/27/2017 AD.
  */
-public class ZorkTrigger {
-    public ArrayList<ZorkCondition> conditions = new ArrayList<ZorkCondition>();
+public class Trigger {
+    public ArrayList<Condition> conditions = new ArrayList<Condition>();
     String type="single"; /*By default, single*/
     boolean hasCommand = false;
     public ArrayList<String> print = new ArrayList<String>();

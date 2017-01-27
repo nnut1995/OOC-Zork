@@ -4,4 +4,4 @@ The Quetzal brought him to another island which is called the Deadly island. Thi
 the most cruel dinosaur of this island is T-Rex. However, T-Rex live close the door for escaping from this island and the door are locked.
 Zlatan have to go get the key in the cave but the key is protected by the sabertooth. Lastly, when Zlatan beating the T-Rex, he got to back to the Dino island.
 While he going back, he will meet the last Boss which is called Mosasaur and when the Mosasaur is beated, You will win the game.
-Player will control the Zlatan character which are allow to craft the item to survive and tame the dinosaur for figthing. 
+Player will control the Zlatan character which are allow to craft the item to survive and tame the dinosaur for figthing.
