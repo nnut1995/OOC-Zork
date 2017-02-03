@@ -4,6 +4,6 @@
 
 - Dinosaur is for the putting Dinosaur data.
 
-- Items is for the information of the Items.
+- ItemsFactory is for the information of the ItemsFactory.
 
 - Locations is the place that the character can go in the game. 

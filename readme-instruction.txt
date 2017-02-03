@@ -1,3 +1,4 @@
-Firstly, you must craft the item to survive in the island(ex. hunting items, cooking items).
+Command in game
 
-Secondly, you have to tame the dinosaur for help you to hunt and fight with the boss.
+Move command: 'go up','go down','go left' or 'go right'.
+Get item: 'grab thatch,'grab wood', 'grab stone', 'get metal'
